@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(6, 122, 95);
+}
+
+#heading{
+  text-align: center;
+  justify-content: center;
+  background-color: #3D4849;
+  color: aliceblue;
+  margin: 0px;
+  padding: 5px 0px;
+  width: 500px;
+  margin: auto;
+  margin-top: 150px;
+  text-shadow: 2px 2px 1px gray;
+}
+
+.container{
+  box-sizing: border-box;
+  background-color: rgb(255, 179, 0);
+  padding: 50px;
+  width: 500px;
+  margin: auto;
+}
+
+.input{
+  box-sizing: border-box;
+  width: 100%;
+  padding: 8px 6px;
+  border: 2px solid black;
+  border-radius: 6px;
+}
+
+#select{
+  text-align: center;
+  padding: 15px;
+}
+
+#to{
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 25px;
+  text-shadow: 1px 1px 2px;
+}
+
+.sel{
+  padding: 8px 5px;
+  background-color: #3D4849;
+  color: aliceblue;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+.sel:hover{
+  cursor: pointer;
+}
